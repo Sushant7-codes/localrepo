@@ -1,1 +1,1 @@
-#Comment to check whether it is pushing changes or not in local repo
+Comment to check whether it is pushing changes or not in local repo
